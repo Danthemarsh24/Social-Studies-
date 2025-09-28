@@ -1,0 +1,4 @@
+mkdir my-web-app
+cd my-web-app
+git init
+npx create-react-app frontend
